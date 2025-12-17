@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prompt Engineering for Beginners - Persian Translation
 **Translated by Mehdi Kiani**  
 Original English Author: Mark J. Baars  
@@ -119,3 +120,6 @@ git clone https://github.com/USERNAME/prompt-engineering-for-beginners-fa.git
 مترجم: مهدی کیانی
 🌐 وب‌سایت: https://mkiani.ir
 📧 ایمیل: mkiani3000@gmail.com
+=======
+# BMI-Java-App
+>>>>>>> 85dc7480606f2a115e4ad1b83d1ace226892447a
